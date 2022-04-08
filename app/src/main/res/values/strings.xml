@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ikan Hias Air Tawar</string>
+    <string name="Ikan_Hias1">Ikan Arwana</string>
+    <string name="Ikan_Hias2">Ikan Cupang</string>
+    <string name="Ikan_Hias3">Ikan Discus</string>
+    <string name="Ikan_Hias4">Ikan Guppy</string>
+    <string name="Ikan_Hias5">Ikan Mas Koki</string>
+    <string name="Ikan_Hias6">Ikan Koi</string>
+    <string name="Ikan_Hias7">Ikan Platty</string>
+    <string name="Ikan_Hias8">Ikan Manfish</string>
+    <string name="Ikan_Hias9">Ikan Barb Sumatera</string>
+    <string name="Ikan_Hias10">Ikan Black Ghost</string>
+</resources>
